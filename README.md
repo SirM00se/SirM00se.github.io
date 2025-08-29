@@ -1,2 +1,2 @@
 # SirM00se.github.io
-Hello World
+This project is a personal blog documenting whatever I want.
